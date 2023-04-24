@@ -291,6 +291,7 @@ header nav ul li a {
 }
 
 .om-mig div {
+  margin: 20px 20px;
   margin-top: 0;
   width: 100%;
   height: fit-content;
@@ -330,18 +331,22 @@ header nav ul li a {
   background-color: #f2f2f2;
 }
 
-.recension-box div h3 {
+.recension-box div h2 {
+  margin: 20px 20px 0 20px;
   font-size: 20px;
   font-weight: 100;
   line-height: 70px;
   text-align: left;
-  padding-left: 30px;
+  padding: 10px 60px 0;
   letter-spacing: 1px;
   color: rgb(127, 124, 132);
 }
 
-.recension-box div p {
-  padding: 0 30px;
+.recension-box p {
+  margin: -10px 20px 0 20px;
+  text-align: left;
+  padding: 0 60px;
+
 }
 
 .recension-box img {
@@ -369,6 +374,7 @@ header nav ul li a {
 
 .kontakt div p {
   padding: 10px 20px;
+  margin: 20px 50px;
   text-align: center;
 }
 
