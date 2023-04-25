@@ -335,9 +335,9 @@ header nav ul li a {
   margin: 20px 20px 0 20px;
   font-size: 20px;
   font-weight: 100;
-  line-height: 70px;
+  line-height: 30px;
   text-align: left;
-  padding: 10px 60px 0;
+  padding: 20px 30px;
   letter-spacing: 1px;
   color: rgb(127, 124, 132);
 }
@@ -345,8 +345,7 @@ header nav ul li a {
 .recension-box p {
   margin: -10px 20px 0 20px;
   text-align: left;
-  padding: 0 60px;
-
+  padding: 0 30px;
 }
 
 .recension-box img {
@@ -513,6 +512,23 @@ footer ul li a {
   .om-mig p {
     text-align: left;
     padding: 10px 200px;
+  }
+
+  .recension-box div h2 {
+    margin: 20px 20px 0 20px;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 70px;
+    text-align: left;
+    padding: 10px 60px 0;
+    letter-spacing: 1px;
+    color: rgb(127, 124, 132);
+  }
+
+  .recension-box p {
+    margin: -10px 20px 0 20px;
+    text-align: left;
+    padding: 0 60px;
   }
 
   html, body {
